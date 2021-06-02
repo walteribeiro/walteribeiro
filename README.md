@@ -10,7 +10,7 @@
 
 My name is Walter Ribeiro and I'm a Full Stack developer.
 
-- 🌱 I’m currently learning **Spanish**
+- 🌱 I’m currently learning **French**
 - 🔭 I’m currently working on **Projetus TI**
 
 
