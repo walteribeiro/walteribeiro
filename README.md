@@ -11,7 +11,7 @@
 My name is Walter Ribeiro and I'm a Full Stack developer.
 
 - 🌱 I’m currently learning **French**
-- 🔭 I’m currently working on **Snowman Labs**
+- 🔭 I’m currently working on **TestReach**
 
 
 ![Walter Ribeiro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=walteribeiro&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
