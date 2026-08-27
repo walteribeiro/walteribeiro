@@ -8,7 +8,6 @@
 **Senior Software Engineer** with 8+ years building web, mobile and back-end products. Currently at **[TestReach](https://www.testreach.com)** in Dublin, Ireland — originally from Juiz de Fora, Brazil 🇧🇷
 
 - 🔭 Working on secure online assessment systems at TestReach
-- 💼 Previously at Snowman Labs and Projetus TI
 - 🌱 Learning **Rust** and **French**
 
 ## Tech Stack
@@ -28,26 +27,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 
 ## Featured Projects
-
-<a href="https://github.com/walteribeiro/toggle-master-monolith">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=walteribeiro&repo=toggle-master-monolith&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/walteribeiro/figma-design-system">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=walteribeiro&repo=figma-design-system&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/walteribeiro/nlw-setup">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=walteribeiro&repo=nlw-setup&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/walteribeiro/full-react-snippets">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=walteribeiro&repo=full-react-snippets&theme=dark&hide_border=true" />
-</a>
-
-<br clear="left" />
 
 - **[toggle-master-monolith](https://github.com/walteribeiro/toggle-master-monolith)** — Feature Flag as a Service MVP in Python, containerized with Docker and deployed to AWS
 - **[figma-design-system](https://github.com/walteribeiro/figma-design-system)** — Design system built from a Figma spec with React, Tailwind CSS, Radix UI and Storybook
@@ -55,16 +41,11 @@
 - **[ig.news](https://github.com/walteribeiro/ig.news)** — Subscription news platform with Next.js, NextAuth, Stripe and Prismic
 - **[full-react-snippets](https://github.com/walteribeiro/full-react-snippets)** — Collection of React snippets
 
-## GitHub Stats
+## GitHub
 
-<a href="https://github.com/walteribeiro">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=walteribeiro&show_icons=true&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/walteribeiro">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walteribeiro&layout=compact&theme=dark&hide_border=true" />
-</a>
-
-<br clear="left" />
+![Followers](https://img.shields.io/github/followers/walteribeiro?style=flat-square&logo=github&label=Followers)
+![Stars](https://img.shields.io/github/stars/walteribeiro?style=flat-square&logo=github&label=Stars)
+![Repos](https://img.shields.io/badge/dynamic/json?style=flat-square&logo=github&label=Public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwalteribeiro)
 
 ---
 
